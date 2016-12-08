@@ -1,0 +1,12 @@
+build/
+dist/
+docs/_build/
+SQLAlchemy_ImageAttach.egg-info/
+.cache/
+.coverage
+.tox/
+.*.swp
+*.pyc
+
+# Pycharm project files
+*/.idea/*
